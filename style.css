@@ -126,34 +126,3 @@ button {
 button:hover {
     background: #005fa3;
 }
-@media (max-width: 768px) {
-    nav a {
-        display: block;
-        margin: 10px 0;
-    }
-
-    header {
-        padding: 10px;
-    }
-
-    main {
-        padding: 15px;
-    }
-
-    section {
-        margin-bottom: 30px;
-    }
-
-    h1, h2 {
-        font-size: 24px;
-    }
-
-    form {
-        padding: 15px;
-    }
-
-    input, textarea, button {
-        font-size: 14px;
-        padding: 10px;
-    }
-}
